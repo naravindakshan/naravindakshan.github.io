@@ -1,0 +1,1 @@
+ChemKit is a place for online tools that make learning chemistry an easy process. The focus is on particular concepts in general chemsitry those are difficult for students to visualize. The tools are aimed at 1st and 2 nd year university students.
